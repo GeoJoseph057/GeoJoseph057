@@ -1,54 +1,56 @@
+# <p align="center">Hi! I'm Geo Joseph</p>
+
+<p align="center">An Electronics Engineer turned full-stack developer, deeply into Cloud, AI, and Web3.</p>
+
+---
+
+## 🚀 About Me
+
+- 💼 Cloud & GenAI Enthusiast | Intern @ [SellerGeni](https://sellergeni.com/)
+- 🔥 Built **MemeCoinify**, **CryptoTruth** and more, passionate about **AI/ML** apps with real-world impact
+- 🌱 Currently learning **Solidity**, **Cloud Architecture**, and **LLM fine-tuning**
+- 🎮 When I'm not coding, I'm either gaming or snapping photos 📷
+- 💬 Ask me about **AI/ML**, **OpenCV**, **Full-stack dev**, or **Smart contracts**
+- 📫 Reach me at **geojosephwork@gmail.com**
+
+---
+
+## 🛠️ Tech Stack
+
 <p align="center">
-  <img width="80%" alt="Hi, I'm Geo Joseph!" src="./assets/gh-readme-banner.png" />
+  <img height="50" alt="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+  <img height="50" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+  <img height="50" alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+  <img height="50" alt="Node.js" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+  <img height="50" alt="MongoDB" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+  <img height="50" alt="MySQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 </p>
 
-<br />
+---
 
-Hey there! 👋 I'm **Geo Joseph**, an Electronics Engineer turned full-stack developer, deeply into Cloud, AI, and Web3.
+## 🔥 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/GeoJoseph057/MemeCoinify">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GeoJoseph057&repo=MemeCoinify&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/GeoJoseph057/CryptoTruth">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GeoJoseph057&repo=CryptoTruth&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
 ---
 
-### 🚀 About Me
-
-* 👨‍💻 Cloud & GenAI Enthusiast | Intern @ SellerGeni
-* 🧠 Passionate about building AI/ML apps with real-world impact
-* 🌐 Exploring Web3 to decentralize creativity and trust
-* 📷 When I'm not coding, I'm either gaming or snapping photos
+## 💡 Fun Fact
+**I build dApps by day and snipe memes by night** 😄
 
 ---
 
-### 🛠️ Tech Stack
+<p align="center">
+  <strong>🤝 Always open for collaboration, freelance gigs, or full-time roles!</strong><br>
+  <em>Drop a star ⭐ if you liked anything here — helps a ton!</em>
+</p>
 
-<code><img height="20" alt="Python" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code> <code><img height="20" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code> <code><img height="20" alt="React" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></code> <code><img height="20" alt="Node.js" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code> <code><img height="20" alt="MongoDB" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png"></code> <code><img height="20" alt="MySQL" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"></code> <code><img height="20" alt="OpenCV" src="https://raw.githubusercontent.com/github/explore/main/topics/opencv/opencv.png"></code> <code><img height="20" alt="Pandas" src="https://raw.githubusercontent.com/github/explore/main/topics/pandas/pandas.png"></code>
-
----
-
-### 🔥 Featured Projects
-
-#### 🪙 [MemeCoinify](https://github.com/GeoJoseph057/MemeCoinify.git)
-
-> A full-stack Web3 platform where memes become NFTs. Create, mint, and earn ETH with smart contract–based revenue sharing.
-
-#### 🧠 [CryptoTruth](https://github.com/GeoJoseph057/CryptoTruth.git)
-
-> AI + Web3 ecosystem for verifying crypto rumors using smart contracts, community consensus, and expert oracle feeds.
-
----
-
-### 📊 GitHub Stats
-
-| <a href="https://github.com/GeoJoseph057"><img align="center" src="https://github-readme-stats.vercel.app/api?username=GeoJoseph057&show_icons=true&theme=tokyonight&hide_border=true" /></a> | <a href="https://github.com/GeoJoseph057"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeoJoseph057&layout=compact&theme=tokyonight&hide_border=true" /></a> |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
----
-
-### 🤝 Let's Connect!
-
-* 💼 Always open for collaboration, freelance gigs, or full-time roles
-* 🌍 Drop a star ⭐ if you liked anything here — helps a ton!
-
----
-
-<sub><i>"Code hard, meme harder." </i></sub> 😎
-
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GeoJoseph057&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+</p>
