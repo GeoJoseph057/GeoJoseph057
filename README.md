@@ -8,9 +8,6 @@
 
 - 💼 Cloud & GenAI Enthusiast | Intern @ [SellerGeni](https://sellergeni.com/)
 - 🔥 Built **MemeCoinify**, **CryptoTruth** and more, passionate about **AI/ML** apps with real-world impact
-- 🌱 Currently learning **Solidity**, **Cloud Architecture**, and **LLM fine-tuning**
-- 🎮 When I'm not coding, I'm either gaming or snapping photos 📷
-- 💬 Ask me about **AI/ML**, **OpenCV**, **Full-stack dev**, or **Smart contracts**
 - 📫 Reach me at **geojosephwork@gmail.com**
 
 ---
