@@ -41,11 +41,6 @@
 
 ---
 
-## 💡 Fun Fact
-**I build dApps by day and snipe memes by night** 😄
-
----
-
 <p align="center">
   <strong>🤝 Always open for collaboration, freelance gigs, or full-time roles!</strong><br>
   <em>Drop a star ⭐ if you liked anything here — helps a ton!</em>
