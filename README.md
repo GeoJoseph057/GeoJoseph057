@@ -28,12 +28,14 @@
 ## 🔥 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/GeoJoseph057/MemeCoinify">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GeoJoseph057&repo=MemeCoinify&theme=tokyonight&hide_border=true" />
-  </a>
   <a href="https://github.com/GeoJoseph057/Exercise_Recognition.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=GeoJoseph057&repo=Exercise_Recognition&theme=tokyonight&hide_border=true" />
   </a>
+  
+  <a href="https://github.com/GeoJoseph057/MemeCoinify">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GeoJoseph057&repo=MemeCoinify&theme=tokyonight&hide_border=true" />
+  </a>
+  
 </p>
 
 ---
